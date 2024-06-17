@@ -8,6 +8,7 @@
 - 편향-분산 분해 관점에서 편향을 줄이는 것에 초점을 두기 때문에 일반화 성능이 비교적 낮은 학습기들을 조합하여 견고한 학습기를 만들 수 있다.
 - AdaBoost는 기초 학습기의 선형가중조합을 통해 생성된다.
 - AdaBoost 알고리즘
+  
 ![image](https://github.com/chan9yu711/ML_finalproject/assets/172960092/761c51c7-06d5-424e-9e07-57fc7dcdb399)
 
 ## 예제
